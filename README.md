@@ -13,7 +13,7 @@
 
 - Tutorialspoint : [https://www.tutorialspoint.com/testrail](https://www.tutorialspoint.com/testrail/testrail_milestones.htm?fbclid=IwAR0zKtGcC16Weanlb4wpWz0EWOmBdvVNmzT9H2i7P7I1k_a5NBe-S-0N4LA#:~:text=Milestones%20are%20associated%20with%20project,for%20an%20important%20customer%20etc)
 # Video:
-[Link video]()
+[Link video](https://www.youtube.com/watch?v=0uoa5b94Bbk)
 
 # Deployment Guildline:
 - [Instructions to register for Testrail](https://docs.google.com/document/d/1-L-gWVBvgfznowXcbYPy3ap9IBAwdFSKZWC70MhWHfQ/edit?usp=sharing)
